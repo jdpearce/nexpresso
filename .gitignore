@@ -38,3 +38,6 @@ jspm_packages
 
 # build folder
 build
+
+# stupid files
+.DS_Store
